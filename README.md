@@ -1,6 +1,6 @@
 # nodejs_website_template
 
-This is a project for my own education to improve my understanding of both web development and node.js. All knowledge was taken form here:\
+This is a project for my own education to improve my understanding of both web development and node.js. It uses Express Framework as a web application framework and Pug as a template engine. All knowledge was taken from here:\
 https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/ 
 
 Set up requirements: 
